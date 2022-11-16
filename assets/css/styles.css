@@ -163,6 +163,18 @@ img {
   margin-bottom: var(--mb-4);
 }
 
+.another-projects {
+  color: #fff;
+  padding: 0.2rem 1.2rem;
+  width: 14rem;
+  border-radius: 1rem;
+  display: block;
+  margin: 1rem auto;
+  background-color: red;
+  font-weight: bold;
+  text-align: center;
+}
+
 .nav_link {
   position: relative;
   color: var(--fifth-color);
